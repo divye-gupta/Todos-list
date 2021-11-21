@@ -5,7 +5,7 @@ export const Footer = () => {
     return (
         <footer className="bg-dark text-light py-3">
             <p className="text-center">
-            Copyright &copy; MyTodosList.com
+            Hello!! This is a footer.
             </p>
         </footer>
     )
